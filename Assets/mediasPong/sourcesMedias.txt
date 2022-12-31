@@ -1,0 +1,10 @@
+Source de médias
+- Images
+  - Image perso PONG.png, CC0 
+- Polices
+  - https://fonts.google.com/specimen/Press+Start+2P?query=press
+- Sons
+  - CreativeCommons Attribution 3.0
+  - http://soundbible.com/1252-Bleep.html
+  - http://soundbible.com/1251-Beep.html
+  - http://soundbible.com/1501-Buzzer.html
